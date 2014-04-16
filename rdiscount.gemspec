@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
   s.name = 'rdiscount'
-  s.version = '2.1.7.1'
-  s.summary = "Fast Implementation of Gruber's Markdown in C"
-  s.date = '2014-04-12'
-  s.email = 'davidfstr@gmail.com'
-  s.homepage = 'http://dafoster.net/projects/rdiscount/'
-  s.authors = ["Ryan Tomayko", "David Loren Parsons", "Andrew White", "David Foster"]
+  s.version = '9.0.0.0'
+  s.summary = "Fast Implementation of Gruber's Markdown in C With Math(LaTex, MathJax) Support"
+  s.date = '2014-04-15'
+  s.email = 'i@liangsun.org'
+  s.homepage = 'https://github.com/liangsun/rdiscount'
+  s.authors = ["Ryan Tomayko", "David Loren Parsons", "Andrew White", "David Foster", "Liang Sun"]
   s.license = "BSD"
   # = MANIFEST =
   s.files = %w[
